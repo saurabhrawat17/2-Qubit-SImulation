@@ -2,7 +2,7 @@
 
 **A small hardware circuit, designed in a hardware description language and built on a student FPGA board, that computes what two entangled quantum bits would do and shows the result on the board's display.**
 
-> 📹 **[Add a short video or photo here of the board running: pressing the button and the display changing from `4000` to `2D41`.]**
+
 
 ---
 
@@ -48,7 +48,7 @@ The whole calculation finishes in about **100 nanoseconds**, which is one ten-mi
 
 ## How this was built
 
-> ✏️ **[Edit this section so it accurately describes your own contribution. Admissions readers value honesty here far more than they value a claim of doing everything alone.]**
+
 
 I used an AI assistant (Claude) as a tutor and collaborator throughout this project. It explained the underlying concepts, helped design the architecture, and wrote much of the initial Python and Verilog code. My part was:
 
@@ -59,9 +59,6 @@ I used an AI assistant (Claude) as a tutor and collaborator throughout this proj
 - studying the design until I could explain how every part works
 - [add anything else you did, such as changes you made, extensions you built, or data you collected]
 
-## What I learned
-
-> ✏️ **[Write this part yourself, in your own words. A few honest sentences about what surprised you, what was hard, or what changed in how you think will be worth more than anything written for you.]**
 
 ## What's next
 
@@ -75,4 +72,3 @@ The full design is in this repository: Verilog source, a testbench, pin constrai
 
 ---
 
-**About me:** [Your name] · [School], [Grade] · Nairobi, Kenya · [email or other contact, optional]
