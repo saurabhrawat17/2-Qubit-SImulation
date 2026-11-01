@@ -50,14 +50,14 @@ The whole calculation finishes in about **100 nanoseconds**, which is one ten-mi
 
 
 
-I used an AI assistant (Claude) as a tutor and collaborator throughout this project. It explained the underlying concepts, helped design the architecture, and wrote much of the initial Python and Verilog code. My part was:
+I used an AI assistant (Claude) and Dr Swaroop S. Reddy as my tutors and collaborator throughout this project. They helped explain the underlying concepts, helped design the architecture, and wrote much of the initial Python code. My part was:
 
 - setting up the toolchain and getting the board running end to end
 - debugging the constraint and hardware-connection problems
 - running the simulations and verifying the results against the reference model
 - programming the physical board and testing it
 - studying the design until I could explain how every part works
-- [add anything else you did, such as changes you made, extensions you built, or data you collected]
+
 
 
 ## What's next
